@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "dockerode": "^3.3.0",
+    "yargs": "^17.1.1"
+  }
+}
